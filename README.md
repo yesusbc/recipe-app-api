@@ -1,8 +1,5 @@
 # Recipe App API
 
-[![Build Status](https://travis-ci.org/masoudr/recipe-app-api.svg?branch=master)](https://travis-ci.org/masoudr/recipe-app-api)
-[![Coverage Status](https://coveralls.io/repos/github/masoudr/recipe-app-api/badge.svg?branch=master)](https://coveralls.io/github/masoudr/recipe-app-api?branch=master)
-
 This is a recipe RESTful API written with **Django** and **Django REST framework** based on **Test-driven development** built over **Docker**.
 
 This project is a sample app that can be used for other projects.
